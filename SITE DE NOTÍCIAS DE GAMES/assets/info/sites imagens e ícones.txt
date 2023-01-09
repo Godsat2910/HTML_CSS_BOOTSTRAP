@@ -1,0 +1,3 @@
+https://icomoon.io/app/#/select = Seleção de ícones para sites
+https://unsplash.com = imagens sem direitos autorais para serem usadas em sites
+https://www.iconfinder.com/search?q=x&price=free = mais ícones para serem usados em sites
